@@ -1,6 +1,3 @@
-# Name: Sri Vignesh G
-# Ref.No: 23012556 
-
 # Exp-6: Synchornous counters up counter and down counter 
 ## AIM: 
 To implement 4 bit up and down counters and validate functionality.
@@ -79,22 +76,33 @@ endmodule
 
 ## RTL LOGIC UP COUNTER AND DOWN COUNTER  
 ### UP COUNTER
-![UP RTL](https://github.com/SriVignesh-G/Exp-6-Synchornous-counters-/assets/147576510/c10dcafc-09a7-48d8-9812-fc4f21cb1c10)
-### DOWN COUNTER
-![down rtl](https://github.com/SriVignesh-G/Exp-6-Synchornous-counters-/assets/147576510/0c1de3df-898d-4615-a517-1c60c5447608)
+![Screenshot 2023-12-26 174741](https://github.com/23014287rithik/Exp-6-Synchornous-counters-/assets/150985832/46990739-250b-4fce-9902-8fedd8f02c37)
+
+
+ ### DOWN COUNTER
+
+ ![Screenshot 2023-12-26 174749](https://github.com/23014287rithik/Exp-6-Synchornous-counters-/assets/150985832/e98cc933-19e6-4975-a79b-1aaddba98429)
 
 ## TIMING DIGRAMS FOR COUNTER  
 ### UP COUNTER
-![up td](https://github.com/SriVignesh-G/Exp-6-Synchornous-counters-/assets/147576510/e0283351-7f9e-4129-b05a-316b2b059235)
-### DOWN COUNTER
-![down td](https://github.com/SriVignesh-G/Exp-6-Synchornous-counters-/assets/147576510/d4a1ac80-4851-44de-8ccf-1bc43504a2a2)
 
+![Screenshot 2023-12-26 174804](https://github.com/23014287rithik/Exp-6-Synchornous-counters-/assets/150985832/18945d14-d8d2-4381-9fef-241ff703be52)
+
+ ### DOWN COUNTER
+![Screenshot 2023-12-26 174813](https://github.com/23014287rithik/Exp-6-Synchornous-counters-/assets/150985832/ad0edec8-1c1f-4f93-9b8c-70a91e3e1464)
+
+ 
 ## TRUTH TABLE
 ### UP COUNTER
-![image](https://github.com/SriVignesh-G/Exp-6-Synchornous-counters-/assets/147576510/2f77f8ca-4443-4c8e-9f69-680184ad8ac5)
 
+![Screenshot 2023-12-26 174822](https://github.com/23014287rithik/Exp-6-Synchornous-counters-/assets/150985832/de5c5bfc-0029-4a02-8ecf-0bb5b6cd7690)
+
+
+ 
 ### DOWN COUNTER
-![image](https://github.com/SriVignesh-G/Exp-6-Synchornous-counters-/assets/147576510/2e31460a-f88f-4a40-b90d-f01aa07c62f8)
+
+
+ ![Screenshot 2023-12-26 174833](https://github.com/23014287rithik/Exp-6-Synchornous-counters-/assets/150985832/366cbac4-5efc-4ee2-9313-999227f5803e)
 
 
 ### RESULTS 
